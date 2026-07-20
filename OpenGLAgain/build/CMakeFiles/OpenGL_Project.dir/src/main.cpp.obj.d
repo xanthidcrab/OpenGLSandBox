@@ -1,5 +1,5 @@
 CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj: \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/src/main.cpp \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/src/main.cpp \
  C:/msys64/ucrt64/include/c++/15.2.0/iostream \
  C:/msys64/ucrt64/include/c++/15.2.0/bits/requires_hosted.h \
  C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -139,12 +139,12 @@ CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/15.2.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/15.2.0/istream \
  C:/msys64/ucrt64/include/c++/15.2.0/bits/istream.tcc \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/include/main.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glad/include/glad/glad.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glad/include/KHR/khrplatform.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/include/main.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glad/include/glad/glad.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glad/include/KHR/khrplatform.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/include/GLFW/glfw3.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/include/GLFW/glfw3.h \
  C:/msys64/ucrt64/include/c++/15.2.0/cmath \
  C:/msys64/ucrt64/include/math.h \
  C:/msys64/ucrt64/include/c++/15.2.0/bits/specfun.h \

@@ -151,15 +151,15 @@
 			[
 				{
 					"backtrace" : 8,
-					"path" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/include"
+					"path" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src"
+					"path" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4/src"
+					"path" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4/src"
 				}
 			],
 			"language" : "C",

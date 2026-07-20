@@ -1,7 +1,7 @@
 libs/glfw-3.4/src/CMakeFiles/glfw.dir/null_joystick.c.obj: \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/null_joystick.c \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/internal.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/include/GLFW/glfw3.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/null_joystick.c \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/internal.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/include/GLFW/glfw3.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
  C:/msys64/ucrt64/include/stddef.h C:/msys64/ucrt64/include/crtdefs.h \
  C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
@@ -11,9 +11,9 @@ libs/glfw-3.4/src/CMakeFiles/glfw.dir/null_joystick.c.obj: \
  C:/msys64/ucrt64/include/sdks/_mingw_ddk.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/platform.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/null_platform.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/win32_platform.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/platform.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/null_platform.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/win32_platform.h \
  C:/msys64/ucrt64/include/wctype.h \
  C:/msys64/ucrt64/include/corecrt_wctype.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/sdkddkver.h \
@@ -223,8 +223,8 @@ libs/glfw-3.4/src/CMakeFiles/glfw.dir/null_joystick.c.obj: \
  C:/msys64/ucrt64/include/propidl.h \
  C:/msys64/ucrt64/include/_mingw_dxhelper.h \
  C:/msys64/ucrt64/include/xinput.h C:/msys64/ucrt64/include/dbt.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/null_joystick.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/win32_joystick.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/win32_thread.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src/win32_time.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/include/GLFW/glfw3native.h
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/null_joystick.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/win32_joystick.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/win32_thread.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src/win32_time.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/include/GLFW/glfw3native.h

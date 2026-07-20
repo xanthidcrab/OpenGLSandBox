@@ -1,5 +1,5 @@
 CMakeFiles/glad.dir/libs/glad/src/glad.c.obj: \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glad/src/glad.c \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glad/src/glad.c \
  C:/msys64/ucrt64/include/stdio.h \
  C:/msys64/ucrt64/include/corecrt_stdio_config.h \
  C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
@@ -20,8 +20,8 @@ CMakeFiles/glad.dir/libs/glad/src/glad.c.obj: \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
  C:/msys64/ucrt64/include/errno.h C:/msys64/ucrt64/include/string.h \
  C:/msys64/ucrt64/include/sec_api/string_s.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glad/include/glad/glad.h \
- C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glad/include/KHR/khrplatform.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glad/include/glad/glad.h \
+ C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glad/include/KHR/khrplatform.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
  C:/msys64/ucrt64/include/stdint.h \
  C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \

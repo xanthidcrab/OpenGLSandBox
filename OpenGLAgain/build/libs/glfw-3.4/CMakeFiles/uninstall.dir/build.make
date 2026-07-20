@@ -53,10 +53,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain"
+CMAKE_SOURCE_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build"
+CMAKE_BINARY_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build"
 
 # Utility rule file for uninstall.
 
@@ -67,7 +67,7 @@ include libs/glfw-3.4/CMakeFiles/uninstall.dir/compiler_depend.make
 include libs/glfw-3.4/CMakeFiles/uninstall.dir/progress.make
 
 libs/glfw-3.4/CMakeFiles/uninstall:
-	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4" && "C:/Program Files/CMake/bin/cmake.exe" -P "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4/cmake_uninstall.cmake"
+	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4" && "C:/Program Files/CMake/bin/cmake.exe" -P "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4/cmake_uninstall.cmake"
 
 libs/glfw-3.4/CMakeFiles/uninstall.dir/codegen:
 .PHONY : libs/glfw-3.4/CMakeFiles/uninstall.dir/codegen
@@ -81,10 +81,10 @@ libs/glfw-3.4/CMakeFiles/uninstall.dir/build: uninstall
 .PHONY : libs/glfw-3.4/CMakeFiles/uninstall.dir/build
 
 libs/glfw-3.4/CMakeFiles/uninstall.dir/clean:
-	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4" && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
+	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4" && $(CMAKE_COMMAND) -P CMakeFiles/uninstall.dir/cmake_clean.cmake
 .PHONY : libs/glfw-3.4/CMakeFiles/uninstall.dir/clean
 
 libs/glfw-3.4/CMakeFiles/uninstall.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4/CMakeFiles/uninstall.dir/DependInfo.cmake" "--color=$(COLOR)" uninstall
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4/CMakeFiles/uninstall.dir/DependInfo.cmake" "--color=$(COLOR)" uninstall
 .PHONY : libs/glfw-3.4/CMakeFiles/uninstall.dir/depend
 

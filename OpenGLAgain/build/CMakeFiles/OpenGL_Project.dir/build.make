@@ -53,10 +53,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain"
+CMAKE_SOURCE_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build"
+CMAKE_BINARY_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/OpenGL_Project.dir/depend.make
@@ -74,18 +74,18 @@ CMakeFiles/OpenGL_Project.dir/codegen:
 
 CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj: CMakeFiles/OpenGL_Project.dir/flags.make
 CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj: CMakeFiles/OpenGL_Project.dir/includes_CXX.rsp
-CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj: C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLAgain/src/main.cpp
+CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj: C:/Users/Harun\ Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/src/main.cpp
 CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj: CMakeFiles/OpenGL_Project.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj"
-	C:/msys64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj -MF CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj.d -o CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj -c "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/src/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj"
+	C:/msys64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj -MF CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj.d -o CMakeFiles/OpenGL_Project.dir/src/main.cpp.obj -c "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/src/main.cpp"
 
 CMakeFiles/OpenGL_Project.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OpenGL_Project.dir/src/main.cpp.i"
-	C:/msys64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/src/main.cpp" > CMakeFiles/OpenGL_Project.dir/src/main.cpp.i
+	C:/msys64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/src/main.cpp" > CMakeFiles/OpenGL_Project.dir/src/main.cpp.i
 
 CMakeFiles/OpenGL_Project.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OpenGL_Project.dir/src/main.cpp.s"
-	C:/msys64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/src/main.cpp" -o CMakeFiles/OpenGL_Project.dir/src/main.cpp.s
+	C:/msys64/ucrt64/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/src/main.cpp" -o CMakeFiles/OpenGL_Project.dir/src/main.cpp.s
 
 # Object files for target OpenGL_Project
 OpenGL_Project_OBJECTS = \
@@ -100,7 +100,7 @@ OpenGL_Project.exe: libs/glfw-3.4/src/libglfw3.a
 OpenGL_Project.exe: libglad.a
 OpenGL_Project.exe: CMakeFiles/OpenGL_Project.dir/linkLibs.rsp
 OpenGL_Project.exe: CMakeFiles/OpenGL_Project.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable OpenGL_Project.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable OpenGL_Project.exe"
 	"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/OpenGL_Project.dir/objects.a
 	C:/msys64/ucrt64/bin/ar.exe qc CMakeFiles/OpenGL_Project.dir/objects.a @CMakeFiles/OpenGL_Project.dir/objects1.rsp
 	C:/msys64/ucrt64/bin/g++.exe -g -Wl,--whole-archive CMakeFiles/OpenGL_Project.dir/objects.a -Wl,--no-whole-archive -o OpenGL_Project.exe -Wl,--out-implib,libOpenGL_Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/OpenGL_Project.dir/linkLibs.rsp
@@ -114,6 +114,6 @@ CMakeFiles/OpenGL_Project.dir/clean:
 .PHONY : CMakeFiles/OpenGL_Project.dir/clean
 
 CMakeFiles/OpenGL_Project.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/CMakeFiles/OpenGL_Project.dir/DependInfo.cmake" "--color=$(COLOR)" OpenGL_Project
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/CMakeFiles/OpenGL_Project.dir/DependInfo.cmake" "--color=$(COLOR)" OpenGL_Project
 .PHONY : CMakeFiles/OpenGL_Project.dir/depend
 

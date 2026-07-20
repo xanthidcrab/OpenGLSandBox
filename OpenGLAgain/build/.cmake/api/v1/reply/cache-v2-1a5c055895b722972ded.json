@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/build"
+			"value" : "c:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -707,7 +707,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain"
+			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1747,7 +1747,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4"
+			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4"
 		},
 		{
 			"name" : "GLFW_BUILD_DOCS",
@@ -1867,7 +1867,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4"
+			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4"
 		},
 		{
 			"name" : "GLFW_USE_HYBRID_HPG",
@@ -1891,7 +1891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain/build"
+			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build"
 		},
 		{
 			"name" : "OpenGL_Project_IS_TOP_LEVEL",
@@ -1915,7 +1915,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLAgain"
+			"value" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgain"
 		},
 		{
 			"name" : "XINPUT_H_FOUND",

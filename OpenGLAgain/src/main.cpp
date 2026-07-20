@@ -147,22 +147,32 @@ int main()
         0.0f, 0.5f, 0.0f, 0.0f, 0.0f, 1.0f
     };
 
-    float vertices[] =
-{
-    // Position          // Color
-    -0.5f,-0.5f,0.0f,     0,0,0,
-     0.5f, 0.5f,0.0f,     0,0,0
-};
-Çizim:
+    float innerTriangleLines[] =
+        {
+            // A-B
+            -0.20f, -0.15f, 0.0f,
+            0.20f, -0.15f, 0.0f,
+
+            // B-C
+            0.20f, -0.15f, 0.0f,
+            0.00f,  0.20f, 0.0f,
+
+            // C-A
+            0.00f,  0.20f, 0.0f,
+            -0.20f, -0.15f, 0.0f
+        };
+ 
     //VAO ve VBO oluşturmak
 
-    unsigned int VAO, VBO;
+    unsigned int VAO, VBO, lineVAO, lineVBO;
 
     //VAO ve VBO oluşturmak
     glGenVertexArrays(1,&VAO);
     glGenBuffers(1,&VBO);
+    glGenVertexArrays(1,&lineVAO);
+    glGenBuffers(1,&lineVBO);
 
-    // VAO VBO burada bind ediliyor bağlanıyor.
+    // --- Dış üçgen (dolu, renkli) ---
     glBindVertexArray(VAO);
     glBindBuffer(GL_ARRAY_BUFFER, VBO);
 
@@ -173,7 +183,7 @@ int main()
         verticies,
         GL_STATIC_DRAW
     );
-    
+
     glVertexAttribPointer(
         0,
         3,
@@ -194,7 +204,34 @@ int main()
     glEnableVertexAttribArray(1);
    glBindBuffer(GL_ARRAY_BUFFER, 0);
    glBindVertexArray(0);
-   
+
+   // --- İç üçgen (sadece çizgilerle) ---
+   glBindVertexArray(lineVAO);
+   glBindBuffer(GL_ARRAY_BUFFER, lineVBO);
+
+   glBufferData(
+       GL_ARRAY_BUFFER,
+       sizeof(innerTriangleLines),
+       innerTriangleLines,
+       GL_STATIC_DRAW
+   );
+
+   glVertexAttribPointer(
+       0,
+       3,
+       GL_FLOAT,
+       GL_FALSE,
+       3*sizeof(float),
+       reinterpret_cast<void*>(0)
+   );
+   glEnableVertexAttribArray(0);
+
+   // location 1 (renk) için per-vertex veri yok; sabit bir renk kullanıyoruz.
+   glVertexAttrib3f(1, 1.0f, 1.0f, 1.0f);
+
+   glBindBuffer(GL_ARRAY_BUFFER, 0);
+   glBindVertexArray(0);
+
    int colorLocation = glGetUniformLocation(shaderProgram, "uColor");
 
     int panLocation = glGetUniformLocation(shaderProgram, "uPan");
@@ -223,13 +260,18 @@ int main()
             0,
             3
         );
-glDrawArrays(GL_LINE_LOOP, 0, 3);
+
+        glBindVertexArray(lineVAO);
+        glDrawArrays(GL_LINES, 0, 6);
+
         glfwSwapBuffers(window);
         glfwPollEvents();
 
     }
     glDeleteVertexArrays(1, &VAO);
     glDeleteBuffers(1, &VBO);
+    glDeleteVertexArrays(1, &lineVAO);
+    glDeleteBuffers(1, &lineVBO);
     glDeleteProgram(shaderProgram);
 
     glfwDestroyWindow(window);

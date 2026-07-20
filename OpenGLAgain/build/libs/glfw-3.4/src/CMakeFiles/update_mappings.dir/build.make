@@ -53,10 +53,10 @@ RM = "C:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain"
+CMAKE_SOURCE_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build"
+CMAKE_BINARY_DIR = "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build"
 
 # Utility rule file for update_mappings.
 
@@ -67,8 +67,8 @@ include libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/compiler_depend.make
 include libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/progress.make
 
 libs/glfw-3.4/src/CMakeFiles/update_mappings:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Updating gamepad mappings from upstream repository"
-	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src" && "C:/Program Files/CMake/bin/cmake.exe" -P "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/CMake/GenerateMappings.cmake" mappings.h.in mappings.h
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Updating gamepad mappings from upstream repository"
+	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src" && "C:/Program Files/CMake/bin/cmake.exe" -P "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/CMake/GenerateMappings.cmake" mappings.h.in mappings.h
 
 libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/codegen:
 .PHONY : libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/codegen
@@ -82,10 +82,10 @@ libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/build: update_mappings
 .PHONY : libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/build
 
 libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/clean:
-	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4/src" && $(CMAKE_COMMAND) -P CMakeFiles/update_mappings.dir/cmake_clean.cmake
+	cd "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4/src" && $(CMAKE_COMMAND) -P CMakeFiles/update_mappings.dir/cmake_clean.cmake
 .PHONY : libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/clean
 
 libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/libs/glfw-3.4/src" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4/src" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLAgain/build/libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/DependInfo.cmake" "--color=$(COLOR)" update_mappings
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/libs/glfw-3.4/src" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4/src" "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLAgain/build/libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/DependInfo.cmake" "--color=$(COLOR)" update_mappings
 .PHONY : libs/glfw-3.4/src/CMakeFiles/update_mappings.dir/depend
 
