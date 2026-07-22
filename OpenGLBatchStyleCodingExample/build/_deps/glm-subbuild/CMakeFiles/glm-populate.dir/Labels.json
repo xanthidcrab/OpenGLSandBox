@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/a64edb8225a30a8b85c83979f98d0be8/glm-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/2631ae96ef651b4bd748901d54e0ff5b/glm-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-subbuild/CMakeFiles/8a70571c9bc82ee861a3f50bb416f8e9/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

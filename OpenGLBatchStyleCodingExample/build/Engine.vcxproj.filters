@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Geometry\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Tessellation\Tessellator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Scene\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Buffers\BufferLayout.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Buffers\VertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Buffers\VertexArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Shaders\ShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Renderer\RenderCommand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Renderer\RenderState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Renderer\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Batch\Batch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Camera\Camera2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Core\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\src\Core\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7EEE5A52-434B-3FE0-973C-42254CACA43D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

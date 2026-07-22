@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\CMakeFiles\b7700362523055f3f4de14871797227b\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\libs\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\libs\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\libs\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\libs\glfw-3.4\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D1F60309-A7D7-3FD8-9608-E704E3EBCDB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{600C78C4-F435-31A9-AA3F-0141F04054B5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

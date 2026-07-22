@@ -1,0 +1,10 @@
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\LIBS\GLFW-3.4\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample" "-BC:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build" --check-stamp-file "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/src/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

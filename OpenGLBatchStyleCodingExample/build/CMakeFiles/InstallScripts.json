@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/cmake_install.cmake",
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-build/glm/cmake_install.cmake",
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/cmake_install.cmake",
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

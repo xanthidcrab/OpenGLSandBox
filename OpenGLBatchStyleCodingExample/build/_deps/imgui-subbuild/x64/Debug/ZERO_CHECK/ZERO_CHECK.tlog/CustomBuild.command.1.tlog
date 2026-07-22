@@ -1,0 +1,10 @@
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\BC888B4965FDBFB6787E2F606E2B90F2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild" "-BC:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

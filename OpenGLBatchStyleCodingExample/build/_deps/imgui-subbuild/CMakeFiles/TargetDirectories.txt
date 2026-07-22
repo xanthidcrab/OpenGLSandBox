@@ -1,0 +1,3 @@
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\_deps\imgui-subbuild\CMakeFiles\bc888b4965fdbfb6787e2f606e2b90f2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E42A3981-EE0F-354D-8ED1-F5E49FD3AD58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

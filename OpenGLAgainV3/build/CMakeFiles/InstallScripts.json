@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgainV3/build/cmake_install.cmake",
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgainV3/build/libs/glfw-3.4/cmake_install.cmake",
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgainV3/build/libs/glfw-3.4/src/cmake_install.cmake",
+		"C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLAgainV3/build/libs/glfw-3.4/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,17 @@
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/CMakeFiles/glad.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/CMakeFiles/imgui.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/CMakeFiles/Engine.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/CMakeFiles/Sandbox.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/CMakeFiles/INSTALL.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-build/CMakeFiles/INSTALL.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-build/glm/CMakeFiles/glm.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/glm-build/glm/CMakeFiles/INSTALL.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/CMakeFiles/uninstall.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/CMakeFiles/INSTALL.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/CMakeFiles/ALL_BUILD.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/src/CMakeFiles/glfw.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/src/CMakeFiles/update_mappings.dir
+C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/libs/glfw-3.4/src/CMakeFiles/INSTALL.dir

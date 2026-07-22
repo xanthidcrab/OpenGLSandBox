@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/bc888b4965fdbfb6787e2f606e2b90f2/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/6f93183900cc019d3552fcaecc427e4d/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Harun Sar\u0131p\u0131nar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/efed0c2d4d30ffe90309e722a54a14de/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

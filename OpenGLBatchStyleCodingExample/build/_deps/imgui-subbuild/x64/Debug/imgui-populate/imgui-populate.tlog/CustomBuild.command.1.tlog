@@ -1,0 +1,150 @@
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/tmp/imgui-populate-mkdirs.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-DOWNLOAD.RULE
+setlocal
+cd "C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\_deps"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/tmp/imgui-populate-gitclone.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-UPDATE.RULE
+setlocal
+cd "C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\_deps\imgui-src"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/tmp/imgui-populate-gitupdate.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-CONFIGURE.RULE
+setlocal
+cd "C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\_deps\imgui-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-BUILD.RULE
+setlocal
+cd "C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\_deps\imgui-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-INSTALL.RULE
+setlocal
+cd "C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\_deps\imgui-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\EFED0C2D4D30FFE90309E722A54A14DE\IMGUI-POPULATE-TEST.RULE
+setlocal
+cd "C:\Users\Harun Sarıpınar\Desktop\sandbox\OpenGLCourses\OpenGLBatchStyleCodingExample\build\_deps\imgui-build"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\6F93183900CC019D3552FCAECC427E4D\IMGUI-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/Debug/imgui-populate-complete"
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/Debug/imgui-populate-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKEFILES\BC888B4965FDBFB6787E2F606E2B90F2\IMGUI-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HARUN SARıPıNAR\DESKTOP\SANDBOX\OPENGLCOURSES\OPENGLBATCHSTYLECODINGEXAMPLE\BUILD\_DEPS\IMGUI-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild" "-BC:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild" --check-stamp-file "C:/Users/Harun Sarıpınar/Desktop/sandbox/OpenGLCourses/OpenGLBatchStyleCodingExample/build/_deps/imgui-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
